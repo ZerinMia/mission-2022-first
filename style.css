@@ -77,11 +77,14 @@ body{
     display:flex;
     margin: auto; 
     padding: 10px 40px;
+    background-image: url(image/shape-4.png);
+    
 }
 .left-pic img{
     width: 500px;
     padding-left: 10px;
     padding-right: 50px;
+    
     
 } 
 .buton{
@@ -92,4 +95,50 @@ body{
    color: white;
    padding: 10px 40px;
 }
+.fourth{
+    display: flex;
+    margin: 50px;
     
+}
+.picture-project img{
+    width: 500px;
+    padding:20px 10px;
+    background-image: url(image/shape-1.png);
+    
+}    
+.buttn{
+    background-image:linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 5px;
+    color: white;
+
+}
+.wings{
+    color: darkorange;
+}
+.wing{
+    display: flex;
+    
+    margin: 50px;
+    background-image: url(image/shape-1.png);
+    background-repeat: no-repeat;
+}
+.butterfly{
+    width: 50%;
+}
+.pink{
+    color: rgb(224, 48, 17);
+}
+.bottom-end{
+    text-align: center;
+ }
+.white{
+     color: white;
+ }
+ .end{
+    background-color: black ;
+    margin: 0;
+    padding: 10px;
+}
