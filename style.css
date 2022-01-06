@@ -23,11 +23,52 @@ body{
 }
 .button{
     text-decoration: none;
-    background-image: linear-gradient(tomato,salmon);
+    background-image: radial-gradient(orange,tomato);
     padding: 10px 40px;
     border-radius: 5px;
     font-weight: 700;
     color: white;
+}
+.orange{
+    color: orange;
+}
+.my-mission{
+    text-align: center;
+}
+.mission{
+    width: 250px;
+    border: solid white;
+    background-color: skyblue;
+    border-radius: 30px;
+    padding: 10px;
+}
+.illus-1 img{
+    width: 100%;
+}
+.mission-2022{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 10%;
+}
+.vission{
+    width: 250px;
+    border: solid white;
+    background-color: peru;
+    border-radius: 30px;
+    padding: 10px;
+}
+.illus-2 img{
+ width: 100%;
+}
+.goals{
+    width: 250px;
+    border: solid white;
+    background-color: thistle;
+    border-radius: 30px;
+    padding: 10px;
+}
+.illus-3 img{
+    width: 100%;
 }
 
     
